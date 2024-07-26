@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163697936378",
+    "project_id": "otpauthbare",
+    "storage_bucket": "otpauthbare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163697936378:android:946b9f8cb88435ceaf0643",
+        "android_client_info": {
+          "package_name": "com.demoprojectauthpoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYDkOrm0wljAFUUGJm_7pRy2c8cC3bYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
